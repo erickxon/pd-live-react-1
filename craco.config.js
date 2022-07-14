@@ -14,7 +14,7 @@ module.exports = {
       },
     ],
   },
-  // FIX: https://github.com/facebook/create-react-app/discussions/11767#discussioncomment-2421668
+  // FIX: https://github.com/facebook/create-react-app/discussions/11767#discussioncomment-24216688
   webpack: {
     configure: {
       ignoreWarnings: [
